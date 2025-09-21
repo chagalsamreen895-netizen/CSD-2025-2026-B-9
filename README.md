@@ -1,1 +1,1 @@
-Coal Mine Safety Monitoring Alerting System.
+IoT Based Coal Mine Safety Monitoring and Alerting System.
